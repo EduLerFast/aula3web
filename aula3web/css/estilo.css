@@ -1,0 +1,39 @@
+/*
+h1{color:rgb(211, 130, 24);text-align: center;}
+
+body{font-family: 'monocraft';src: url(fonts/monocraft.woof) format(woof);}*/
+
+#total {width: 980px;
+        height: auto;
+        margin: auto;}/*centraliza a divisao da pagina*/
+
+#topo  {width: 980px ;
+        height: 100px;
+        background-color: aquamarine;}
+
+#banner  {width: 980px ;
+        height: 300px;
+        background-color: rgb(173, 83, 83);
+        
+/*               /\   >   \/   <                                            */
+        margin: 20px 0px 20px 0px;
+        
+        }
+
+
+
+
+#conteudo  {width: 980px ;
+        height: 300px;
+        background-color: rgb(236, 26, 218);}
+
+
+
+#esquerda {width: 450px ;
+        height: 300px; 
+        background-color: rgb(236, 26, 106); float:left ;}
+
+#direita  {width: 450px ; 
+        height: 300px;
+        background-color: #5a0275; float:right ; }
+
